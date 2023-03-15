@@ -1,2 +1,5 @@
-package model;public class Animal {
+package model;
+
+public interface Animal {
+  public void fazBarulho ();
 }
